@@ -32,11 +32,7 @@ A powerful Flutter application for managing reminders with custom alarm tones, p
 - **Exact Alarm Permission**: Ensures alarms fire at precise scheduled times
 - **Full-Screen Alarms**: Important reminders display full-screen for maximum attention
 
-## Screenshots
 
-ZReadMe_screenshots\1image.png
-ZReadMe_screenshots\2image.png
-ZReadMe_screenshots\3image.png
 
 ## Installation
 
