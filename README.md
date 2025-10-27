@@ -1,6 +1,7 @@
 # RemindGo - Smart Reminder App
 
 A powerful Flutter application for managing reminders with custom alarm tones, pre-alerts, and intelligent notification system. Never miss an important moment again!
+![Remindgo_icon](https://github.com/user-attachments/assets/fe7e6ac7-7e83-4155-8b90-11a5a1d625f2)
 
 ## Features
 
